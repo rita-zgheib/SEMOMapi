@@ -7,8 +7,11 @@ and OWLAPI for owl representations.
 To resume, we have 3 actors: 
 
 1- programmer1BasicPublisher
+
       - he will be able to create new semanticSensor (which has these attributes: semantic property, semantic featureOfInterest, Many semanticOutputs and then many semanticObservations)
+      
       - he will add sensorsOutput and create semantic Messages
+      
       
 N.B till now these functionalities are what our api offer to the programmer. Version0
       
